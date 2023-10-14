@@ -1,11 +1,11 @@
-Lionv3
+# Lion
  
 Importante este programa es para
 generar contraseñas fuertez y utiles 
 para no permitir un
 ataque fuerza bruta!
 
-Instalacion
+# Instalacion
 
 `git clone https://github.com/Juandavidart/Lion/blob/main/Lionv3.py`
 
