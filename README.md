@@ -1,4 +1,4 @@
-Lion 
+Lionv3
  
 Importante este programa es para
 generar contraseñas fuertez y utiles 
@@ -7,8 +7,8 @@ ataque fuerza bruta!
 
 Instalacion
 
-*git clone https://github.com/Juandavidart/Lion/blob/main/Lionv3.py*
+`git clone https://github.com/Juandavidart/Lion/blob/main/Lionv3.py`
 
-*cd Lion*
+`cd Lion`
 
-*python Lionv3.py*
+`python Lionv3.py`
